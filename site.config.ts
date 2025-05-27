@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Luna Gao - Data Science Portfolio',
-  domain: '',
+  domain: 'https://lunagao-portfolio.vercel.app',
   author: 'Luna Gao',
 
   // open graph metadata (optional)
